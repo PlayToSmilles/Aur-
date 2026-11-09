@@ -1,0 +1,3 @@
+Missing file: visible error dialog, controlled exit code 1
+Invalid UTF-8: visible error dialog, controlled exit code 1
+Unsupported script element: visible error dialog, controlled exit code 1; no script executed

@@ -1,0 +1,6 @@
+Native title: Aruã Mark I
+Heading and both paragraphs: visually verified
+Maximize/restore: passed
+Narrow window: text wrapping and vertical block flow passed
+Explicit HTML path from another working directory: passed
+Close via Alt+F4: process exit code 0

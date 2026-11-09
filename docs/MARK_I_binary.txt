@@ -1,0 +1,36 @@
+Microsoft (R) COFF/PE Dumper Version 14.51.36252.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+Dump of file target\x86_64-pc-windows-msvc\release\Arua.exe
+
+File Type: EXECUTABLE IMAGE
+
+  Image has the following dependencies:
+
+    kernel32.dll
+    user32.dll
+    ole32.dll
+    d2d1.dll
+    dwrite.dll
+    oleaut32.dll
+    api-ms-win-core-winrt-error-l1-1-0.dll
+    api-ms-win-core-synch-l1-2-0.dll
+    KERNEL32.dll
+    ntdll.dll
+    VCRUNTIME140.dll
+    api-ms-win-crt-string-l1-1-0.dll
+    api-ms-win-crt-runtime-l1-1-0.dll
+    api-ms-win-crt-math-l1-1-0.dll
+    api-ms-win-crt-stdio-l1-1-0.dll
+    api-ms-win-crt-locale-l1-1-0.dll
+    api-ms-win-crt-heap-l1-1-0.dll
+
+  Summary
+
+        1000 .data
+        2000 .pdata
+        C000 .rdata
+        1000 .reloc
+       22000 .text
+PE machine: 0x8664 (AMD64); subsystem: 2 (Windows GUI)

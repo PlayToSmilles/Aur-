@@ -1,0 +1,57 @@
+# Rust build outputs (Cargo.lock should be versioned for applications)
+**/target/
+
+# Local installation and validation downloads
+/.mark0/
+
+# Machine-local REA shortcuts, instructions and configuration inventories
+/tools/rea/
+/docs/MARK_0_integrity.json
+
+# Compiled binaries, debug information and installers
+*.exe
+*.dll
+*.pdb
+*.obj
+*.ilk
+*.exp
+*.msi
+*.msix
+*.appx
+
+# Caches and local logs
+.cache/
+*.log
+
+# Credentials and private local settings (never publish real values)
+.env
+.env.*
+!.env.example
+!.env.sample
+.git-credentials
+.netrc
+.npmrc
+**/.cargo/credentials
+**/.cargo/credentials.toml
+credentials.json
+secrets.json
+*.pem
+*.key
+*.pfx
+*.p12
+
+# Windows and local IDE state
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.vs/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Temporary/editor files
+*.tmp
+*.bak
+*~

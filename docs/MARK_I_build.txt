@@ -1,0 +1,2 @@
+   Compiling arua v0.1.0 (C:\dev\Arua)
+    Finished `release` profile [optimized] target(s) in 1.18s

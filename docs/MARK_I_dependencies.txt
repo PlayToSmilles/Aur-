@@ -1,0 +1,31 @@
+arua v0.1.0 (C:\dev\Arua)
+└── windows v0.62.2
+    ├── windows-collections v0.3.2
+    │   └── windows-core v0.62.2
+    │       ├── windows-implement v0.60.2 (proc-macro)
+    │       │   ├── proc-macro2 v1.0.107
+    │       │   │   └── unicode-ident v1.0.27
+    │       │   ├── quote v1.0.47
+    │       │   │   └── proc-macro2 v1.0.107 (*)
+    │       │   └── syn v2.0.119
+    │       │       ├── proc-macro2 v1.0.107 (*)
+    │       │       ├── quote v1.0.47 (*)
+    │       │       └── unicode-ident v1.0.27
+    │       ├── windows-interface v0.59.3 (proc-macro)
+    │       │   ├── proc-macro2 v1.0.107 (*)
+    │       │   ├── quote v1.0.47 (*)
+    │       │   └── syn v2.0.119 (*)
+    │       ├── windows-link v0.2.1
+    │       ├── windows-result v0.4.1
+    │       │   └── windows-link v0.2.1
+    │       └── windows-strings v0.5.1
+    │           └── windows-link v0.2.1
+    ├── windows-core v0.62.2 (*)
+    ├── windows-future v0.3.2
+    │   ├── windows-core v0.62.2 (*)
+    │   ├── windows-link v0.2.1
+    │   └── windows-threading v0.2.1
+    │       └── windows-link v0.2.1
+    └── windows-numerics v0.3.1
+        ├── windows-core v0.62.2 (*)
+        └── windows-link v0.2.1

@@ -1,0 +1,42 @@
+[
+  {
+    "Sample": 1,
+    "WorkingSetBytes": 45928448,
+    "PrivateBytes": 55730176,
+    "CPUSeconds": 0.5625,
+    "Handles": 415,
+    "Responding": true
+  },
+  {
+    "Sample": 2,
+    "WorkingSetBytes": 45928448,
+    "PrivateBytes": 55730176,
+    "CPUSeconds": 0.5625,
+    "Handles": 415,
+    "Responding": true
+  },
+  {
+    "Sample": 3,
+    "WorkingSetBytes": 45928448,
+    "PrivateBytes": 55730176,
+    "CPUSeconds": 0.5625,
+    "Handles": 415,
+    "Responding": true
+  },
+  {
+    "Sample": 4,
+    "WorkingSetBytes": 45928448,
+    "PrivateBytes": 55730176,
+    "CPUSeconds": 0.578125,
+    "Handles": 415,
+    "Responding": true
+  },
+  {
+    "Sample": 5,
+    "WorkingSetBytes": 45928448,
+    "PrivateBytes": 55730176,
+    "CPUSeconds": 0.578125,
+    "Handles": 415,
+    "Responding": true
+  }
+]

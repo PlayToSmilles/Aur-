@@ -1,0 +1,17 @@
+   Compiling arua v0.1.0 (C:\dev\Arua)
+    Finished `test` profile [unoptimized + debuginfo] target(s) in 0.80s
+     Running unittests src\main.rs (target\debug\deps\Arua-c7508eef11a405a5.exe)
+
+running 9 tests
+test html::tests::empty_blocks_and_optional_head_have_defined_results ... ok
+test html::tests::decodes_supported_entities_without_creating_markup ... ok
+test html::tests::handles_bom_case_comments_and_html_whitespace ... ok
+test html::tests::parses_the_requested_document_in_order ... ok
+test html::tests::rejects_malformed_structure ... ok
+test html::tests::rejects_unknown_elements_attributes_and_execution_content ... ok
+test html::tests::rejects_unterminated_tokens_and_bad_entities ... ok
+test html::tests::rejects_invalid_utf8_and_oversized_input ... ok
+test html::tests::loads_utf8_from_disk_and_reports_missing_file ... ok
+
+test result: ok. 9 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.00s
+
